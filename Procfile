@@ -1,1 +1,1 @@
-web: gunicorn Test.wsgi --log-file -
+web: gunicorn lab-0-carissa.wsgi --log-file -
